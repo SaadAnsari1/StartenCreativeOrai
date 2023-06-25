@@ -1,0 +1,178 @@
+# Website Name - Starten Creative - Digital Agency
+
+# Colour [
+    --primary: #1DA1F2  ;
+    --secondary: #DEA32C;
+    --light: #F6F4F9;
+    --dark: #04000B;
+]
+
+# Project team [
+    Designer - Saad Ansari
+    programmer - Saad Ansari
+]
+
+# Phases [
+    Phase 1 – Basic website Design – Current project
+    Phase 2 – Add Professional Design and Animation
+    Phase 3 – modern ui Digital agency website
+]
+
+# Site map [
+    # Pages [
+
+        - Home
+        - About
+        - Services
+        - Project
+        - Our Team
+        - Testimonial
+        - Contact
+        - 404
+
+        #section [ 
+            # Home 
+                - Navbar
+                - Hero
+                - Feature
+                - About
+                - Facts
+                - Service
+                - Newsletter
+                - Projects
+                - Testimonial
+                - Team
+                - Footer
+            # About
+                - Navbar
+                - Hero
+                - Feature
+                - About
+                - Facts
+                - Team
+                - Footer   
+            # Service
+                - Navbar
+                - Hero
+                - Service
+                - Newsletter
+                - Testimonial
+                - Footer
+            # Project 
+                - Navbar
+                - Hero
+                - Projects
+                - Footer
+            # Our Team
+                - Navbar
+                - Hero
+                - Team
+                - Footer
+            # Our Testimonial
+                - Navbar
+                - Hero
+                - Testimonial
+                - Footer
+            # Our 404
+                - Navbar
+                - 404
+                - Testimonial
+                - Footer      
+            # Our Contact
+                - Navbar
+                - Contact
+                - Testimonial
+                - Footer         
+    ]
+    ]
+]
+
+# Functionality [
+    - NEWSLETTER
+    - Contact
+]
+
+# Info [
+
+
+    # Hero [
+        Heading - 8 Words
+        Paraphrase - 35 Words
+        Button Link-  [ReadMore] 
+    ]
+    # Feature [
+        Digital Marketing Decoration - 20 Words
+        SEO & Backlinks Decoration - 20 Words
+        Design & Development Decoration - 20 Words
+    ]
+    # About [
+        Heading - 8 Words
+        Paraphrase - 35 Words
+        Button Link-  [ReadMore] 
+    ]
+    # Facts [
+        Years Experience - 5
+        Team Members - 15 
+        Satisfied Clients - 50
+        Compleate Projects - 150
+    ]
+    # Service [
+        SEO Optimization Decoration - 20 Words
+        Web Design Decoration - 20 Words
+        Social Media Marketing Decoration - 20 Words
+        Email Marketing Decoration - 20 Words
+        PPC Advertising Decoration - 20 Words
+        App Development Decoration - 20 Words
+        Video Editing Decoration - 20 Words
+        Content Creation Decoration - 20 Words
+        Graphic Designing Decoration - 20 Words
+    ]
+    # Newsletter [
+        Decoration - 30 Words
+    ]
+    # Projects [
+        Category - website
+        Title - Starten Creative Digital Agency Website
+        Image - 500 * 400 X 6 Image
+        Link - Startencreative.com
+    ]
+    # Testimonial [
+        Client Name -  Saad Ansari
+        Client Profation - Web Developer
+        Client Message - 25 Words
+        Client Image - 1080*1080 , 512*512 
+    ]
+    # Team [
+        Name - Anas Ansari
+        Post - CEO & Founder
+        Social Link [
+            Facebook -
+            Instagram -
+            Linkedin -
+            Twitter -
+        ]
+        Name - Saad Ansari
+        Post - Web Developer
+        Social Link [
+            Facebook -
+            Instagram -
+            Linkedin -
+            Twitter -
+        ]
+    ]
+    # Footer Details [
+        Location - Marketing agency in Orai, Uttar Pradesh , India
+        Email - info@example.com
+        Contect - +010,000,000,000
+        GALLERY - 500 * 400 X 6 Image
+]]
+
+# Cost of Website [
+    One Page Website cost - 3k-4k
+    Add 1 Page cost - 1k
+    Total Pages - 6*1k = 6k
+    Website Price - 8k
+    Hosting + Domain = 4k
+    Total Cost = 12
+]
+
